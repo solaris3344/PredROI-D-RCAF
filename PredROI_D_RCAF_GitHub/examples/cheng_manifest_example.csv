@@ -1,0 +1,5 @@
+png_path,patient_id,class_name
+C:\\DATA\\Cheng\\png\\1.png,P001,glioma
+C:\\DATA\\Cheng\\png\\2.png,P001,glioma
+C:\\DATA\\Cheng\\png\\1001.png,P101,meningioma
+C:\\DATA\\Cheng\\png\\2001.png,P201,pituitary
